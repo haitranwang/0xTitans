@@ -8,7 +8,7 @@ Created by the Uniswap team
  */
 
 // accelerates to optimize turns-to-win
-contract MyCar is ICar {
+contract Speed is ICar {
     uint256 constant FLOOR = 5;
 
     function takeYourTurn(
